@@ -1,0 +1,84 @@
+{
+  "menus": [
+    {
+      "id": 1,
+      "name": "Hamburguesa Clásica",
+      "icon": "🍔",
+      "description": "Hamburguesa con carne vacuna, queso cheddar, lechuga y tomate.",
+      "price": 520,
+      "availableQuantity": 15
+    },
+    {
+      "id": 2,
+      "name": "Pizza Margarita",
+      "icon": "🍕",
+      "description": "Pizza tradicional con salsa de tomate, mozzarella y albahaca.",
+      "price": 450,
+      "availableQuantity": 8
+    },
+    {
+      "id": 3,
+      "name": "Sushi Mix",
+      "icon": "🍣",
+      "description": "Variedad de rolls de salmón, atún y palta.",
+      "price": 890,
+      "availableQuantity": 12
+    },
+    {
+      "id": 4,
+      "name": "Tacos Mexicanos",
+      "icon": "🌮",
+      "description": "Tacos de pollo con guacamole y salsa picante.",
+      "price": 390,
+      "availableQuantity": 20
+    },
+    {
+      "id": 5,
+      "name": "Ensalada César",
+      "icon": "🥗",
+      "description": "Lechuga fresca, pollo grillado, queso parmesano y crutones.",
+      "price": 340,
+      "availableQuantity": 10
+    },
+    {
+      "id": 6,
+      "name": "Pasta Alfredo",
+      "icon": "🍝",
+      "description": "Fettuccine con salsa cremosa Alfredo y parmesano.",
+      "price": 610,
+      "availableQuantity": 9
+    },
+    {
+      "id": 7,
+      "name": "Helado Artesanal",
+      "icon": "🍨",
+      "description": "Helado artesanal de vainilla y chocolate.",
+      "price": 220,
+      "availableQuantity": 25
+    },
+    {
+      "id": 8,
+      "name": "Pollo Frito",
+      "icon": "🍗",
+      "description": "Piezas de pollo crocante acompañadas de papas fritas.",
+      "price": 560,
+      "availableQuantity": 14
+    },
+    {
+      "id": 9,
+      "name": "Desayuno Completo",
+      "icon": "🥞",
+      "description": "Pancakes con miel, frutas y café.",
+      "price": 310,
+      "availableQuantity": 18
+    },
+    {
+      "id": 10,
+      "name": "Burrito Especial",
+      "icon": "🌯",
+      "description": "Burrito relleno de carne, arroz, queso y porotos.",
+      "price": 470,
+      "availableQuantity": 11
+    }
+  ]
+}
